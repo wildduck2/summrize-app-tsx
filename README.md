@@ -12,7 +12,7 @@ I'm Ahmed Ayob, a passionate web developer with experience in HTML, CSS, JavaScr
 -   📱 Twitter: [https://twitter.com/1ayob_ahmed]
 -   📱 Facebook: [https://www.facebook.com/ahmed.ayob.7355/]
 
-## Protofolio
+## Preview to the project
 
 ![Protofolio Screenshot](./public/preview.png)
 
