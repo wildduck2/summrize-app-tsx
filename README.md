@@ -1,27 +1,39 @@
-# React + TypeScript + Vite
+# Ahmed Ayob's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, skills, and contributions in the field of web development. Feel free to explore the projects listed below and connect with me to discuss collaborations, ideas, or any questions you may have.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm Ahmed Ayob, a passionate web developer with experience in HTML, CSS, JavaScript, Sass, React, and TypeScript. I'm dedicated to creating elegant and functional web solutions that make a difference.
 
-## Expanding the ESLint configuration
+-   🌐 Portfolio: [https://thecoder512.github.io/ahmed-ayob-portofolio-with-ts/]
+-   💼 LinkedIn: [https://www.linkedin.com/in/ahmed-ayob-7a9800249/]
+-   📧 Email: [ahmedayobbusiness@gmail.com]
+-   📱 Twitter: [https://twitter.com/1ayob_ahmed]
+-   📱 Facebook: [https://www.facebook.com/ahmed.ayob.7355/]
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Protofolio
 
-- Configure the top-level `parserOptions` property like this:
+![Protofolio Screenshot](./public/overview.png)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+[Project Description]
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+-   **Tech Stack:** HTML, TailwindCss, TypeScript, GSAP, React-router-dom, 
+-   **GitHub Repository:** [Link]([https://github.com/thecoder512/ahmed-ayob-portofolio-with-ts](https://github.com/thecoder512/summrize-app-tsx/))
+-   **Live Demo:** [Link]([https://thecoder512.github.io/ahmed-ayob-portofolio-with-ts/](https://thecoder512.github.io/summrize-app-tsx/))
+
+## Contact
+
+I'm open to collaboration and new opportunities. Feel free to reach out to me through one of the following channels:
+
+-   📧 Email: [ahmedayobbusiness@gmail.com]
+-   💼 LinkedIn: [https://www.linkedin.com/in/ahmed-ayob-7a9800249/]
+-   🌐 Portfolio: [https://thecoder512.github.io/ahmed-ayob-portofolio-with-ts/]
+-   📱 Twitter: [https://twitter.com/1ayob_ahmed]
+-   📱 Facebook: [https://www.facebook.com/ahmed.ayob.7355/]
+
+Let's connect and create something amazing together!
+
+## License
+
+This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
