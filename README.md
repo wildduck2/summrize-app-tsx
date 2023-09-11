@@ -14,7 +14,7 @@ I'm Ahmed Ayob, a passionate web developer with experience in HTML, CSS, JavaScr
 
 ## Protofolio
 
-![Protofolio Screenshot](./public/overview.png)
+![Protofolio Screenshot](./public/Screenshot2023-09-11221214.png)
 
 [Project Description]
 
