@@ -19,8 +19,8 @@ I'm Ahmed Ayob, a passionate web developer with experience in HTML, CSS, JavaScr
 [Project Description]
 
 -   **Tech Stack:** HTML, TailwindCss, TypeScript, GSAP, React-router-dom, 
--   **GitHub Repository:** [Link](https://github.com/thecoder512/ahmed-ayob-portofolio-with-ts)
--   **Live Demo:** [Link](https://thecoder512.github.io/ahmed-ayob-portofolio-with-ts/)
+-   **GitHub Repository:** [Link](https://github.com/thecoder512/summrize-app-tsx/)
+-   **Live Demo:** [Link](https://thecoder512.github.io/summrize-app-tsx/)
 
 ## Contact
 
