@@ -9,7 +9,7 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')!).render(
     <React.StrictMode>
         <StoreProvider>
-            <BrowserRouter>
+            <BrowserRouter basename='/summrize-app-tsx/'>
                 <App />
             </BrowserRouter>
         </StoreProvider>
